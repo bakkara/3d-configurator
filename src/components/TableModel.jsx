@@ -1,7 +1,7 @@
 import { useGLTF } from '@react-three/drei'
 import { useRef } from 'react'
 import { DragControls } from '@react-three/drei'
-import * as THREE from 'three'
+
 
 export default function TableModel({ url }) {
   const groupRef = useRef()
