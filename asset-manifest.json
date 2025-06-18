@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/3d-configurator/static/css/main.d824caca.css",
-    "main.js": "/3d-configurator/static/js/main.74e048d4.js",
+    "main.js": "/3d-configurator/static/js/main.f4be60e9.js",
     "static/js/453.93cb98c9.chunk.js": "/3d-configurator/static/js/453.93cb98c9.chunk.js",
     "index.html": "/3d-configurator/index.html",
     "main.d824caca.css.map": "/3d-configurator/static/css/main.d824caca.css.map",
-    "main.74e048d4.js.map": "/3d-configurator/static/js/main.74e048d4.js.map",
+    "main.f4be60e9.js.map": "/3d-configurator/static/js/main.f4be60e9.js.map",
     "453.93cb98c9.chunk.js.map": "/3d-configurator/static/js/453.93cb98c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d824caca.css",
-    "static/js/main.74e048d4.js"
+    "static/js/main.f4be60e9.js"
   ]
 }
